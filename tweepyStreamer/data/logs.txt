@@ -1,0 +1,234 @@
+[2021-12-21 13:29:06.897550] 'Status' object is not subscriptable
+[2021-12-21 13:40:42.926967] 'Status' object is not subscriptable
+[2021-12-21 13:43:19.520275] 'Status' object is not subscriptable
+[2021-12-21 13:46:06.780081] 'Status' object is not subscriptable
+[2021-12-21 13:50:13.471521] 'Status' object is not subscriptable
+[2021-12-21 14:17:08.312099] 'Status' object is not subscriptable
+[2021-12-21 15:50:59.967789] 'Status' object is not subscriptable
+[2021-12-21 16:02:23.063052] 'Status' object is not subscriptable
+[2021-12-21 16:22:22.828505] 'Status' object is not subscriptable
+[2021-12-21 16:51:20.220203] 'Status' object is not subscriptable
+[2021-12-21 20:55:29.034875] Expecting value: line 1 column 1 (char 0)
+[2021-12-23 13:10:35.283378] getClassifiedTweet() missing 1 required positional argument: 'model'
+[2021-12-24 11:03:19.693639] Expecting value: line 1 column 1 (char 0)
+[2021-12-24 11:03:22.567786] Expecting value: line 1 column 1 (char 0)
+[2021-12-24 20:02:28.175727] [Classifier] invalid literal for int() with base 10: 'input_ids'
+[2021-12-24 20:02:28.198728] [Classifier] invalid literal for int() with base 10: 'input_ids'
+[2021-12-24 20:02:35.035451] [Classifier] invalid literal for int() with base 10: 'input_ids'
+[2021-12-24 20:02:54.831430] [Classifier] invalid literal for int() with base 10: 'input_ids'
+[2021-12-24 20:10:59.582775] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:01.276198] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:01.397227] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:02.606530] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:07.589776] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:09.805334] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:09.979391] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:11.089654] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:13.681298] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:20.391976] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2021-12-24 20:11:20.395977] [Classifier] 'BertTokenizerFast' object has no attribute 'enocde'
+[2022-01-05 00:18:34.386615] [Classifier] Many unknown words
+[2022-01-05 02:18:34.855062] [Classifier] Many unknown words: "Λυσιγονικός κύκλος".Αρκεί το γονίδιο του ιού να ενσωματωθεί στο γονιδίωμα του ξενιστή όπως γίνεται με την αντίστροφη μεταγραφή του RNA της spike protein που εμπεριέχεται στα RNA εμβόλια και μετά υπό την επίδραση διαφόρων ερεθισμάτων όπως stress βλαστάνουν νέα ιικά σωματίδια.
+[2022-01-05 17:37:38.629646] [Streamer] 404 Not Found
+144 - No status found with that ID.
+[2022-01-05 18:03:00.490696] [Classifier] 'Neutral-Non Neutral Classification'
+[2022-01-05 18:03:58.218648] [Classifier] 'Neutral-Non Neutral Classification'
+[2022-01-07 14:14:20.094000] [Classifier] local variable 'pnResultList' referenced before assignment
+[2022-01-07 14:14:25.782392] [Classifier] local variable 'pnResultList' referenced before assignment
+[2022-01-07 14:14:32.137047] [Classifier] local variable 'pnResultList' referenced before assignment
+[2022-01-09 19:12:36.307923] [Classifier] Too many special characters and/or numbers: Επιτέλους καλέσματα!
+#ΞΥΠΝΗΣΤΕ
+#ΞΕΣΗΚΩΘΕΙΤΕ
+#ΑΝΤΙΔΡΑΣΤΕ
+#ΑΝΤΙΣΤΑΘΕΙΤΕ
+[2022-01-09 19:12:36.329929] [Classifier] Too many special characters and/or numbers: #σχολεια #κρουσματα #κορωνοϊός #εμβολιασμος #μετρα #COVID19 #κεραμεως_παραιτησου  #Μητσοτακη_ξερεις_εσυ #Ευαγγελατε_Γαμιεσαι
+[2022-01-09 19:12:36.332930] [Classifier] Too many special characters and/or numbers: #κεραμεως_παραιτησου
+[2022-01-09 19:14:12.671622] [Classifier] Too many special characters and/or numbers: #Παιδων_Πεντελης #ΠαιδωνΠεντελης #ΕΣΥ_για_όλους  #ΕΣΥ
+[2022-01-09 19:17:28.790556] [Classifier] Too many special characters and/or numbers: #κεραμεως_παραιτησου
+[2022-01-09 19:17:55.042678] [Classifier] Too many special characters and/or numbers: Θραύσμα Fagan: Τη Δευτέρα η εκδήλωση στο Μουσείο Ακρόπολης – Δηλώσεις Μητσοτάκη-Μενδώνη στην «The Telegraph» https://t.co/S3AD5UbNpK #επικαιροτητα #μενδωνη #μητσοτακης #tetragwno #μουσειοακροπολης #θραυσμα
+[2022-01-09 19:20:53.509213] [Classifier] Too many special characters and/or numbers: Για γελια και για κλάματα! 😂https://t.co/hrTJKlVftsεπιτελικό-μπάχαλο-αναλγησία-και-αν/
+ #selftest #κεραμεως
+[2022-01-09 19:22:38.238940] [Classifier] Too many special characters and/or numbers: #Ασεπιτες_2008_θελουμε_δικαιωση #Ασεπιτες2008
+[2022-01-09 19:23:56.689740] [Classifier] Too many special characters and/or numbers: #σχολεία 
+#τηλεκπαίδευση
+#Κεραμεως
+[2022-01-09 19:24:38.840066] [Classifier] Too many special characters and/or numbers: ΚΥΡΙΑΚΟ ΜΗΤΣΟΤΑΚΗ ΕΙΣΑΙ ΑΠΑΤΕΩΝΑΣ. ΔΙΑΣΠΕΙΡΕΙΣ ΨΕΥΔΕΙΣ ΕΙΔΗΣΕΙΣ. ΑΠΑΤΑΣ ΤΟΥΣ ΕΛΛΗΝΕΣ. ΠΡΟΣΒΑΛΕΙΣ ΕΠΙΣΗΜΑ ΚΡΑΤΙΚΑ ΕΓΓΡΑΦΑ !!! ##ΑΡΤΕΜΗΣ ΣΩΡΡΑΣ, #ΕΛΛΗΝΩΝ ΣΥΝΕΛΕΥΣΙΣ, ΔΙΕΘΝΕΙΣ, ΔΙΚΑΙΟΣΥΝΗ, ΕΙΔΗΣΕΙΣ, ΕΠΙΚΑΙΡΟΤΗΤΑ, ΟΙΚΟΝΟΜΙΑ, ΠΟΛΙΤΙΚΗ, ΣΚΑΝΔΑΛΑ https://t.co/3xMzvremPj
+[2022-01-09 19:26:47.830179] [Classifier] Too many special characters and/or numbers: #Παιδων_Πεντελης
+[2022-01-09 19:30:04.160773] [Classifier] Too many special characters and/or numbers: Δείτε την ΚΥΑ
+
+#znews #πιστοποιητικο #εμβολιασμος #κορονοιος #covid19gr #covid19 https://t.co/YfipJImXaT
+[2022-01-09 19:35:53.167819] [Classifier] Too many special characters and/or numbers: #σχολεια #Κεραμεως #κεραμεως_παραιτησου #μετρα #κρουσματα #λοκντάουν
+[2022-01-09 19:37:03.012063] [Classifier] Too many special characters and/or numbers: #σχολεια #Κεραμεως #κεραμεως_παραιτησου #μετρα #κρουσματα #τι_ψηφισατε_ρε_μαλακες
+[2022-01-09 19:38:46.398317] [Classifier] Too many special characters and/or numbers: #κεραμεως #κρουσματα #κεραμεως_παραιτησου #σχολεια
+[2022-01-09 19:40:01.944053] [Classifier] Too many special characters and/or numbers: #κεραμεως_παραιτησου #Κεραμεως #σχολεια #κρούσματα
+[2022-01-09 19:45:49.106171] [Classifier] Too many special characters and/or numbers: Ο μηχανισμός των Αντικυθήρων...
+
+#κορονοιος #εμβολια #εμβολιασμενοι #εμβολιασμος #Ευαγγελατος #ΕΟΔΥ
+[2022-01-09 19:49:12.119002] [Classifier] Too many special characters and/or numbers: Ωχ... 
+#tsipras #mitsotakis #κορονοιος https://t.co/Xvicw6QbXa
+[2022-01-09 19:52:49.052068] [Classifier] Too many special characters and/or numbers: +1
+[2022-01-09 20:00:29.819486] [Classifier] Too many special characters and/or numbers: #selftest  #σχολεια  #ομικρον  #Κεραμεως  #survivorGR https://t.co/QIvpmxDzrH
+[2022-01-09 20:00:29.844492] [Classifier] Too many special characters and/or numbers: #σχολεια #κρουσματα #κορωνοϊός #εμβολιασμος #μετρα #COVID19 #εμβολια#κεραμεως_παραιτησου  #Μητσοτακη_ξερεις_εσυ #Ευαγγελατε_Γαμιεσαι
+[2022-01-09 20:01:26.240672] [Classifier] Too many special characters and/or numbers: Ελένη Ράντου: Θετική διαγνώστηκε ηθοποιός – «Αυτή η φάση του covid είναι σαν πυρκαγιά» https://t.co/Eau9NAB8fi #tetragwno #life #κορονοιος #ραντου #ειδησεις #επικαιροτητα
+[2022-01-09 20:04:06.004443] [Classifier] Too many special characters and/or numbers: Ελένη Ράντου: Θετική διαγνώστηκε η ηθοποιός – «Αυτή η φάση του covid είναι σαν πυρκαγιά» https://t.co/Dh0jiHh3tB #tetragwno #life #κορονοιος #ραντου #ειδησεις #επικαιροτητα
+[2022-01-09 20:08:34.442463] [Classifier] Too many special characters and/or numbers: #Χανιά https://t.co/zfp8XmQJLT #salonikaplus #stoparapente #sasmos #agriesmelisses #tilestora #olagood #superkaterina #hfarma #survivorgr #toprwino #The2NightShow #Hlios #εμβολιασμενοι #TheVoiceGR #selftest
+#gitiselias #PameDanai #MeToo  #Εμβολιο #paofc #MasterChefGR #κορονοιος
+[2022-01-09 20:12:01.259300] [Classifier] Too many special characters and/or numbers: #Κρούσματα ανά 100.000 κατοίκους(7ημερος μέσος όρος) ανά Π.Ε. των περιφερειών:
+-Ανατολικής Μακεδονίας &amp; Θράκης
+-Βορείου Αιγαίου
+-Κεντρικής Μακεδονίας
+
+#covid #κορωνοιος https://t.co/rWXOHBgfH7
+[2022-01-09 20:16:11.801079] [Classifier] Too many special characters and/or numbers: #Κρούσματα ανά 100.000 κατοίκους(7ημερος μέσος όρος) ανά Π.Ε. των περιφερειών:
+-Θεσσαλίας
+-Ιονίων Νήσων
+
+#covid #κορωνοιος https://t.co/imv7ddDAng
+[2022-01-09 20:29:21.213808] [Classifier] Too many special characters and/or numbers: "Έχω κάνει τη δική μου έρευνα".
+
+#Πανδημια 
+#κορωνοϊός 
+#κορονοιος 
+#εμβολια https://t.co/tRLaDvvWKf
+[2022-01-09 20:30:20.500456] [Classifier] Too many special characters and/or numbers: ... Και ας βρεθεί ΕΝΑΣ
+#κορονοιος #COVID19 #Omicron #Covid https://t.co/85LunPZR5c
+[2022-01-09 20:30:48.711799] [Classifier] Too many special characters and/or numbers: #περαστικα #Τσιπρας κάνουμε και delivery https://t.co/AYuQK5Ow9i
+[2022-01-10 11:45:31.648368] [Classifier] Too many special characters and/or numbers: Για να μην ξεχνιομαστε
+#Μητσοτακη_ξερεις_εσυ #skai_xeftiles #μμε_ξεφτιλες 
+#Εμβολιο #εμβολιασμένοι #ανεμβολιαστοι #ψεκια #κορωνοιος #πανδημια  #κρουσματα #μητσοτακη_παραιτησου #διαγγελμα
+#εμβολια #Ομικρον #Εμβολιο #εμβολιασμός #ΕΜΒΟΛΙΑΣΜΟΙ #τζοκοβιτς
+⬇️
+https://t.co/ga6N8SzIfn
+[2022-01-10 11:45:54.838327] [Classifier] Too many special characters and/or numbers: Για να μην ξεχνιόμαστε
+#Μητσοτακη_ξερεις_εσυ #skai_xeftiles #μμε_ξεφτιλες 
+#Εμβολιο #εμβολιασμένοι #ανεμβολιαστοι #ψεκια #κορωνοιος #πανδημια  #κρουσματα #μητσοτακη_παραιτησου #διαγγελμα
+#εμβολια #Ομικρον #Εμβολιο #εμβολιασμός #ΕΜΒΟΛΙΑΣΜΟΙ #τζοκοβιτς
+
+⬇️
+https://t.co/5aOVApyCPs
+[2022-01-10 11:47:50.196195] [Classifier] Too many special characters and/or numbers: αυτα τα κοπρανα #Νδ_δολοφονοι 
+#Μητσοτακη_γαμιεσαι #Μητσοτακη_καθαρμα 
+εφαρμοζουν το συστημα :
+-ΟΣΑ ΦΑΜΕ, ΟΣΑ ΠΙΟΥΜΕ .....
+το τι θα αρπαξει ο κωλος σας,θα ερθει σε λιγο,
+με  #ΣΥΡΙΖΑ  , #Τσιπρας , #Πολακης 
+και ΘΑ ΠΟΝΑΕΙ Κ ΘΑ ΤΣΟΥΖΕΙ !!!! #ΚΑΘΑΡΜΑΤΑ https://t.co/vG18ia4Lf7
+[2022-01-10 11:49:19.250892] [Classifier] Too many special characters and/or numbers: Υγειονομική βόμβα τα #σχολεια 
+#Κεραμεως απασφαλισες;
+[2022-01-10 11:54:37.637064] [Classifier] Too many special characters and/or numbers: #σχολεια #σχολειο
+[2022-01-10 11:57:00.248669] [Classifier] Too many special characters and/or numbers: Αποτελέσματα μαζικών rapid τεστ από τις ΚΟΜΥ του ΕΟΔΥ (08/01) https://t.co/S1RGXDh89X #εμβολιασμος #εμβολιασμοι #εμβόλια #εμβόλιο #σηκωνουμε_μανικια #ΕΟΔΥ #κορονοιος #κορονοϊός #κρούσματα #κορωνοιος #κορωνοϊός #ελευθερία #εμβολιασμενοι #ανεμβολιαστοι
+[2022-01-10 11:59:15.936109] [Classifier] Too many special characters and/or numbers: Ανοιχτά #σχολεια με μόνο την 1η μέρα 1000δες #κρούσματα, #συντάξεις πείνας, οικονομία αίσχος, #νοσοκομεία στο έλεος τους, #ανεργία, θάνατοι,λογικά παίζουμε στο #SquidGame και παλεύουμε να βγάλουμε την πίστα! #σχολειο #λοκνταουν #ΝΔ_θελατε #ΝΔ_ξεφτιλες #Μητσοτακης
+[2022-01-10 12:00:03.533062] [Classifier] Too many special characters and/or numbers: #σχολειο #σχολεια #σχολεία #σεισμός #κυβερνησητσαρλατανων #Μητσοτακη #Μητσοτακης #τζοκοβιτς #τι_ψηφισατε_ρε_μαλακες #τψρμ #τεστ #selftest https://t.co/ZqpsK2agd9
+[2022-01-10 12:06:15.775923] [Classifier] Too many special characters and/or numbers: #this_is_a_coup #λιστα_πετσα #ΜΕ_ΤΟΝ_ΚΥΡΙΑΚΟ #Μητσοτακης #μμε_ξεφτιλες #ΜΕΘ #vipΜΕΘ #Ανδρουλακης #κορωνοϊός #COVID19 #κρουσματα #ομικρον #Omicron #λοκντάουν #Μητσοτακης_ηξερε #Βουλή #RapidTests #Μπακογιαννης #τζοκοβιτς  #Μοσιαλος #μετρα #σχολεία #Ευαγγελατος #ξεπαρθενων #Τζουμας
+[2022-01-10 12:12:43.511659] [Classifier] Too many special characters and/or numbers: Αμερόληπτη δημοσιογραφία #παναγοπουλου #Μητσοτακης @KatPanagopoulou https://t.co/byA7eqfKLw
+[2022-01-10 12:16:51.529860] [Classifier] Too many special characters and/or numbers: #this_is_a_coup #λιστα_πετσα #ΜΕ_ΤΟΝ_ΚΥΡΙΑΚΟ #Μητσοτακης #μμε_ξεφτιλες #ΜΕΘ #vipΜΕΘ #Ανδρουλακης #κορωνοϊός #COVID19 #κρουσματα #ομικρον #Omicron #λοκντάουν #Μητσοτακης_ηξερε #Βουλή #RapidTests #Μπακογιαννης #τζοκοβιτς  #Μοσιαλος #μετρα #σχολεία #Ευαγγελατος #ξεπαρθενων #Τζουμας
+[2022-01-10 12:24:59.651105] [Classifier] Too many special characters and/or numbers: https://t.co/UdmLmNpPvL
+[2022-01-10 15:25:46.663420] [Classifier] Too many special characters and/or numbers: Θα τα έκανε &amp; ο #ΣΥΡΙΖΑ αλλά…
+Δεν πρόλαβε!!!☝️😌
+#Αυτη_την_Ελλαδα_θελουμε
+[2022-01-10 16:05:56.988015] [Classifier] Too many special characters and/or numbers: #τι_ψηφισατε_ρε_μαλακες #ΝΔ_θελατε #κυβερνηση_συμμορια #κυβερνηση_δολοφονων #μητσοτακη_παραιτησου #μμε_ξεφτιλες
+[2022-01-10 16:16:50.675412] [Streamer] Failed to send request: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2022-01-10 16:17:46.864216] [Classifier] Too many special characters and/or numbers: 🤭🤭🤭🤭 https://t.co/5yWW5ecNqH
+[2022-01-11 16:03:09.075545] [Classifier] Too many special characters and/or numbers: 6 #κρούσματα στη Βουλή. 
+Λογικά θα προσλάβουν καινούργιους βουλευτές, για αντικατάσταση... 
+#κορονοιος #MegaLiveNews
+[2022-01-11 16:08:55.539840] [Classifier] Too many special characters and/or numbers: σαν 12χρονο   κανει η ΜΥΡΙΕΛΑ  #kalomesimeraki
+[2022-01-11 16:16:13.631353] [Classifier] Too many special characters and/or numbers: #ΠαιδωνΑγιαΣοφια11 #ΠαιδοκαρδιοχειρουργικοΑγιαΣοφια #Παιδοκαρδιοχειρουργικο
+[2022-01-11 16:19:32.214966] [Classifier] Too many special characters and/or numbers: Ο Est Med, «το μεγάλο ενεργειακό και γεωπολιτικό επίτευγμα», χάθηκε, γιατί;https://t.co/2bW3IkVlJV https://t.co/7wp9WYlVdi
+[2022-01-11 20:16:39.285138] [Classifier] name 'cleanText' is not defined
+[2022-01-11 20:16:52.458898] [Classifier] name 'cleanText' is not defined
+[2022-01-11 20:17:00.783127] [Classifier] name 'cleanText' is not defined
+[2022-01-11 20:17:11.436131] [Classifier] name 'cleanText' is not defined
+[2022-01-11 20:18:02.387270] [Classifier] name 'cleanText' is not defined
+[2022-01-11 20:18:11.669528] [Classifier] name 'cleanText' is not defined
+[2022-01-11 20:18:15.774551] [Classifier] name 'cleanText' is not defined
+[2022-01-11 20:20:53.880481] [Classifier] Too many special characters and/or numbers: https://t.co/EjpCBrNzoX
+[2022-01-11 20:25:11.686891] [Classifier] ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+[2022-01-11 20:26:06.169211] [Classifier] Too many special characters and/or numbers: #Ασεπιτες2008 #Ασεπιτες_2008_θελουμε_δικαίωση
+[2022-01-11 20:29:57.426697] [Classifier] Too many special characters and/or numbers: https://t.co/fxO00Wcme8
+[2022-01-11 20:36:17.005924] [Streamer] 404 Not Found
+144 - No status found with that ID.
+[2022-01-14 18:48:55.988790] [Classifier] Too many special characters and/or numbers: @mnootmoe Share. Ομαδικός βιασμός #metooGR #MeToo
+[2022-01-15 17:12:16.337543] [Classifier] Too many special characters and/or numbers: #Ασεπιτες2008
+[2022-01-15 18:17:24.985148] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:25.541277] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:25.554280] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:30.258460] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:30.302486] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:30.466514] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:32.402999] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:32.424006] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:32.570061] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:32.624054] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:33.454261] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:34.830608] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:34.832608] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:34.834608] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:38.203453] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:38.693576] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:38.738588] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:38.783598] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:38.832611] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:40.239962] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:42.101426] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:42.342487] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:42.353490] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:43.254732] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:44.820106] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:45.090175] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:45.973397] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:46.464520] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:48.364290] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:49.098475] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:49.727633] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:50.001708] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:50.662868] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-15 18:17:51.642113] [Streamer] argument of type 'NoneType' is not iterable
+[2022-01-22 19:49:48.887879] [Classifier] Too many special characters and/or numbers: #θαύματα
+[2022-01-22 20:24:34.150912] [Classifier] Too many special characters and/or numbers: @myrtozax @taurothanos Το ξέρω
+[2022-01-22 20:56:17.005883] [Classifier] HTTPSConnectionPool(host='el.wiktionary.org', port=443): Max retries exceeded with url: /w/index.php?search=%CE%9B%CE%AC%CF%81%CE%B9%CF%83%CE%B1&title=%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C:%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&profile=advanced&fulltext=1&ns0=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002038C496D00>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+[2022-01-22 21:06:42.862353] [Classifier] Too many special characters and/or numbers: Εεεεεπ, για που το βαλαμε;
+[2022-01-22 21:07:39.620054] [Classifier] Too many special characters and/or numbers: @Mafaldadadaaaa βοηθεια
+[2022-01-23 12:59:15.547430] [Classifier] Too many special characters and/or numbers: #Αντικατασταση_Πληθυσμων
+[2022-01-23 13:15:18.697940] [Classifier] Too many special characters and/or numbers: ψυχανωμαλη...
+[2022-01-23 13:19:15.342967] [Classifier] Too many unknown words: Ζγκατάψυξη η χώρα ζμπουτσα μας
+[2022-01-23 16:43:43.535616] [Classifier] Too many special characters and/or numbers: #Τσιπρας #ΣΥΡΙΖΑ #Νεα_Αρχη #εκλογες_ΤΩΡΑ
+[2022-01-23 16:46:31.403387] [Classifier] Too many special characters and/or numbers: #κυβερνησητσαρλατανων #επιτροπη_μαριονετες #εκλογες_ΤΩΡΑ #kantousoff
+[2022-01-23 17:37:35.730750] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #metooGr
+#βιασμος_θεσσαλονικη
+[2022-01-23 17:41:04.628550] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια
+[2022-01-23 17:42:13.119055] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια https://t.co/sXm0Y7GVZF
+[2022-01-23 17:42:20.205688] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #Με_τη_Γεωργια #με_καθε_θυμα_βιασμου #καμια_μονη #βιασμος #βιασμος_θεσσαλονικη #μμε_ξεφτιλες #metooGR #metooCY
+[2022-01-23 17:45:11.148654] [Classifier] Too many special characters and/or numbers: #κυβερνηση_συμμορια #με_την_Γεωργια https://t.co/nOBWNryMDE
+[2022-01-23 17:46:09.819393] [Classifier] Too many special characters and/or numbers: #metoogr #με_την_Γεωργια #βιασμος
+[2022-01-23 17:47:19.287291] [Classifier] Too many special characters and/or numbers: #με_τον_Μακη #χριστιδου #με_τη_Γεωργια #Γεωργία #Γεωργιας #γεωργια_μπικα #μετηνγεωργια #βιασμος #θεσσαλονικη_βιασμος #cancel_influencers #μετηνΓεωργια #metooGR #φιντιρικος #cancel_alexandraki  #cancel_Αχιλλειον #megatv #cancel_Touni #ΜΕ_ΤΟΝ_ΗΛΙΑ_ΓΚΙΩΝΗ https://t.co/rNYj9SeOfa
+[2022-01-23 17:50:57.210585] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #metooGR 
+ @AdonisGeorgiadi
+ ανατολίτικο φλερτ;🧐
+[2022-01-23 17:53:15.382445] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια Υπέροχο ! https://t.co/UtTNnUoXmW
+[2022-01-23 18:01:27.493079] [Classifier] Too many special characters and/or numbers: https://t.co/KtV0a9p0yK #με_την_Γεωργια
+[2022-01-23 18:03:19.850351] [Classifier] Too many special characters and/or numbers: #cancel_church #ΜΜΕ_ΞΕΦΤΙΛΕΣ #MeToo #MeToogreece #metooGR #παπας #παπαδες_παιδεραστες #τραγοι_παιδεραστες #εφοπλιστικά_ΜΜΕ_πλυντηρια_παιδεραστων #βιασμος #Diocletian_did_nothing_wrong
+[2022-01-23 18:07:40.221751] [Classifier] Too many special characters and/or numbers: Ψηφίστε κι αν θέλετε κάντε RT.
+
+#Μακεδονία  #Σέρρες #Φλώρινα #ArisFC #volpaok #σχολεια #με_την_Γεωργια #ΝΔ_θελατε #ΣΥΡΙΖΑ_ξεφτιλες #tilestora #Ασεπιτες2008 #κακοκαιρια  #Θεσσαλονίκη
+
+👇
+https://t.co/igmzAEURGh
+[2022-01-23 18:08:09.574949] [Classifier] Too many special characters and/or numbers: @_VaLhaLLa___ @GGoudaras #cansel kopsialis #ΝΔ_απατεωνες #νδ_δολοφονοι #με_την_Γεωργια #με_τον_Βαξεβανη #ΜΕ_ΤΟΝ_ΗΛΙΑ_ΓΚΙΩΝΗ
+[2022-01-23 18:12:07.343377] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια
+[2022-01-23 18:13:40.896963] [Classifier] Too many special characters and/or numbers: #cancel_Touni #cancel_kopsialis #Μητσοτακης #Φουρθιωτης #με_την_Γεωργια #spitimetomega #κακοκαιρια
+[2022-01-23 18:16:20.478816] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια
+[2022-01-23 18:27:28.984307] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #MeToo
+[2022-01-23 18:27:52.508983] [Classifier] Too many special characters and/or numbers: Δυστυχώς αυτό είμαστε.. #παπας #με_την_Γεωργια #survivorGR #μετρα #ανεμβολιαστοι #Μητσοτακη_ξερεις_εσυ https://t.co/WmC7HhrfWo
+[2022-01-23 18:28:32.813102] [Classifier] Too many special characters and/or numbers: #φουρθιωτης
+[2022-01-23 18:28:33.033154] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #MeToo
+[2022-01-23 18:29:19.525632] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια  #Μυρτω
+[2022-01-23 18:32:37.915814] [Classifier] Too many special characters and/or numbers: #cancel_κοψιαλης #με_την_Γεωργια https://t.co/RrG7InoxUI
+[2022-01-23 18:33:44.631334] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #MeToo
+[2022-01-23 18:35:08.870736] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #MeToo
+[2022-01-23 18:35:31.249631] [Classifier] Too many special characters and/or numbers: #Μυρτω #MeToo #metooGR #MeToogreece #καμια_μονη #καμια_ανοχη
+[2022-01-23 18:36:33.211902] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια #MeToo
+[2022-01-23 18:36:45.376714] [Classifier] Too many special characters and/or numbers: #cancel_κοψιαλης #metooGR #cancel_influencers #τσιμτσιλη #cancel_cocacola #cancel_Touni #με_την_Γεωργια #βιασμος https://t.co/08OpQdrKOR
+[2022-01-23 18:37:49.695524] [Classifier] Too many special characters and/or numbers: #cocacola #cancel_cocacola #με_την_Γεωργια https://t.co/dz5QaQOOha
+[2022-01-23 18:37:52.709617] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια
+[2022-01-23 18:38:42.006077] [Classifier] Too many special characters and/or numbers: #με_την_Γεωργια

@@ -1,0 +1,26 @@
+@font-face {
+  font-family: twitterFont;
+  src: url("fonts/pico-black.ttf");
+}
+
+#logo{
+    width: 100px;
+}
+
+#header{
+    background-color: rgb(0,162,245);
+    padding: 1%;
+}
+
+#title{
+    color: white;
+    text-transform: capitalize!important;
+    font-size: 2rem;
+}
+
+.subtitle{
+    color: white;
+    font-family: arial;
+    font-size: 1rem;
+    text-align: center;
+}
