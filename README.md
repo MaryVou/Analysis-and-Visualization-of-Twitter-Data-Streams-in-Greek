@@ -1,0 +1,1 @@
+This project served as my thesis. It's about an application made with Django that draws twitter posts based on given keywords and classifies them as neutral, positive or negative. It's supposed to work for tweets in greek, as the datasets used are all in greek language. It also offers a very simple UI to display the classification results, as well some statistics.
